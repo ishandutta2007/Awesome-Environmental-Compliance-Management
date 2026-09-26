@@ -3,7 +3,7 @@
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environmental-Compliance-Management"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Environmental-Compliance-Management" alt="Last Commit"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Environmental-Compliance-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Environmental-Compliance-Management?style=flat-square" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Environmental-Compliance-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Environmental-Compliance-Management?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environmental-Compliance-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -63,9 +63,9 @@ This repository compares leading enterprise commercial **SaaS suites** with high
 
 > 💡 **Open-Source Reality in EHS:** Commercial enterprise suites dominate multi-site permit management and regulatory update services. However, open-source building blocks—such as no-code inspection databases, BI reporting engines, spatial GIS layers, and carbon accounting SDKs—provide high-control, cost-effective infrastructure for internal engineering teams.
 
-The repositories below are sorted by **GitHub Star Count (Descending)**:
+The repositories below are sorted by **GitHub Stars_Count (Descending)**:
 
-| 📦 Open-Source Repository | ⭐ GitHub Star Count | 🎯 EHS & Environmental Compliance Use-Case |
+| 📦 Open-Source Repository | ⭐ GitHub Stars_Count | 🎯 EHS & Environmental Compliance Use-Case |
 | :--- | :--- | :--- |
 | **[NocoDB](https://github.com/nocodb/nocodb)** | [![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) | Open-source Airtable alternative used to build custom environmental permit registers, inspection logs, and hazardous waste trackers. |
 | **[Metabase](https://github.com/metabase/metabase)** | [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | Open-source business intelligence platform for visual environmental compliance dashboards, emission trends, and audit reporting. |
